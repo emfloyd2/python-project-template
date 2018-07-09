@@ -1,0 +1,9 @@
+pytest >= 3.6.3, < 4
+pytest-flakefinder >= 0.1.1, < 1
+pytest-randomly >= 1.2.3, < 2
+pytest-cov >= 2.5.1, < 3
+requests-mock >= 1.5.0, < 2
+Faker >= 0.8.16, < 1
+coverage >= 4.5.1, < 5
+tox
+
